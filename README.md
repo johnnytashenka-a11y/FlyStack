@@ -1,4 +1,7 @@
 # FlyStack — не первый и не последний кастомизатор панели задач.
 Среди сотен таких же FlyStack пытается выделится гибкостью настроек, быстродействием и передовым дизайном.
 
-<img width="645" height="148" alt="3c9fd72ec3794076a4c56d328ebe2237 (1)" src="https://github.com/user-attachments/assets/c49449c9-9e34-491f-a093-b5ca62f36f6d" />
+<img width="348" height="68" alt="image" src="https://github.com/user-attachments/assets/22b0243b-2132-4ad6-9af5-2da1401040b7" /> - Тёмная тема
+<img width="344" height="71" alt="image" src="https://github.com/user-attachments/assets/787bfa93-e409-404b-a43f-9de729d4a6e9" /> - Светлая тема
+
+
