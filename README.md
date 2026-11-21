@@ -29,6 +29,8 @@
 
 <img width="459" height="97" alt="image" src="https://github.com/user-attachments/assets/c68c4643-fc71-4942-b56f-9209a4e74072" />
 
+-------------------------------------------------------
+
 > [!IMPORTANT]
 >
 > Кастомная трея
