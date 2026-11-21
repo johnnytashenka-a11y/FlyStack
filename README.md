@@ -1,4 +1,4 @@
-# *FLYSTACK.*
+# *FLYSTACK.
 
 > [!IMPORTANT]
 > # FlyStack — не первый и не последний кастомизатор панели задач.
