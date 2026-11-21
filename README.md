@@ -19,7 +19,7 @@
 >
 > Кастомный календарь 
 
-<img width="459" height="270" alt="image" src="https://github.com/user-attachments/assets/4d1b0c95-0b24-48ff-bd4a-5c9f4bc43ec9" />
+<img width="1040" height="270" alt="image" src="https://github.com/user-attachments/assets/4d1b0c95-0b24-48ff-bd4a-5c9f4bc43ec9" />
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
