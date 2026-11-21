@@ -5,7 +5,7 @@
 
 ## FlyStack — это уникальный проект. Удобство и дизайн в одном приложении.
 
-<img width="599" height="579" alt="image" src="https://github.com/user-attachments/assets/aaa4cf0f-7a87-4ba9-8178-df02da99fb7c" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/aaa4cf0f-7a87-4ba9-8178-df02da99fb7c" />
 
 
 
