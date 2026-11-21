@@ -19,7 +19,7 @@
 >
 > Кастомный календарь 
 
-<img width="1040" height="270" alt="image" src="https://github.com/user-attachments/assets/4d1b0c95-0b24-48ff-bd4a-5c9f4bc43ec9" />
+<img width="459" height="270" alt="image" src="https://github.com/user-attachments/assets/4d1b0c95-0b24-48ff-bd4a-5c9f4bc43ec9" />
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@
 >
 > Кастомная трея
 
-<img width="700" height="158" alt="image" src="https://github.com/user-attachments/assets/cb4ffc7b-ccc1-4262-b978-6afcec9c353e" />
+<img width="1040" height="158" alt="image" src="https://github.com/user-attachments/assets/cb4ffc7b-ccc1-4262-b978-6afcec9c353e" />
 
 
 
