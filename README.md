@@ -33,7 +33,7 @@
 >
 > Кастомная трея
 
-<img width="459" height="158" alt="image" src="https://github.com/user-attachments/assets/cb4ffc7b-ccc1-4262-b978-6afcec9c353e" />
+<img width="700" height="158" alt="image" src="https://github.com/user-attachments/assets/cb4ffc7b-ccc1-4262-b978-6afcec9c353e" />
 
 
 
