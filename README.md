@@ -1,6 +1,6 @@
 # *FLYSTACK.
 
----<img width="1172" height="581" alt="Анимация" src="https://github.com/user-attachments/assets/d82e0e50-4c4e-439d-8bd9-cf143105a9fd" />
+<img width="1172" height="581" alt="Анимация" src="https://github.com/user-attachments/assets/d82e0e50-4c4e-439d-8bd9-cf143105a9fd" />
 
 > [!NOTE]
 > # FlyStack — не первый и не последний кастомизатор панели задач.
