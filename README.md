@@ -5,7 +5,7 @@
 ---
 
 > [!NOTE]
-> # FlyStack — не первый и не последний кастомизатор панели задач.
+> ## FlyStack — не первый и не последний кастомизатор панели задач.
 > 
 > Почему из сотен таких-же можно выбрать именно **FlyStack**?
 > 
@@ -18,19 +18,16 @@
 ## FlyStack — это про дизайн.
 
 > [!IMPORTANT]
->
 > Кастомный календарь
 >
 > <img width="459" height="270" alt="image" src="https://github.com/user-attachments/assets/4d1b0c95-0b24-48ff-bd4a-5c9f4bc43ec9" />
 
 > [!IMPORTANT]
-> 
 > Кастомная панель задач
 >
 > <img width="459" height="97" alt="image" src="https://github.com/user-attachments/assets/c68c4643-fc71-4942-b56f-9209a4e74072" />
 
 > [!IMPORTANT]
->
 > Кастомный трей
 >
 > <img width="1040" height="158" alt="image" src="https://github.com/user-attachments/assets/cb4ffc7b-ccc1-4262-b978-6afcec9c353e" />
@@ -38,7 +35,6 @@
 ---
 
 > [!WARNING]
->
 > ## О урезанных сборках Windows по типу Atlas, Revi и тому подобных.
 >
 > **Из-за урезанных компонентов этих сборок:**
@@ -70,7 +66,6 @@
 > [!NOTE]
 > Так как приложение глубоко взаимодействует с интерфейсом Windows, встроенный защитник Windows SmartScreen может показать предупреждение при первом запуске. Это нормально для неподписанных утилит с открытым исходным кодом.
 
----
 
 
 
