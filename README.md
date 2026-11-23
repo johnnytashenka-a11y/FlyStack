@@ -15,25 +15,25 @@
 
 > [!IMPORTANT]
 >
-> Кастомный календарь 
-
-<img width="459" height="270" alt="image" src="https://github.com/user-attachments/assets/4d1b0c95-0b24-48ff-bd4a-5c9f4bc43ec9" />
+> Кастомный календарь
+>
+> <img width="459" height="270" alt="image" src="https://github.com/user-attachments/assets/4d1b0c95-0b24-48ff-bd4a-5c9f4bc43ec9" />
 
 ---
 
 > [!IMPORTANT]
 > 
 > Кастомная панель задач
-
-<img width="459" height="97" alt="image" src="https://github.com/user-attachments/assets/c68c4643-fc71-4942-b56f-9209a4e74072" />
+>
+> <img width="459" height="97" alt="image" src="https://github.com/user-attachments/assets/c68c4643-fc71-4942-b56f-9209a4e74072" />
 
 ---
 
 > [!IMPORTANT]
 >
 > Кастомный трей
-
-<img width="1040" height="158" alt="image" src="https://github.com/user-attachments/assets/cb4ffc7b-ccc1-4262-b978-6afcec9c353e" />
+>
+> <img width="1040" height="158" alt="image" src="https://github.com/user-attachments/assets/cb4ffc7b-ccc1-4262-b978-6afcec9c353e" />
 
 ---
 
