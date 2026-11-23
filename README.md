@@ -1,4 +1,4 @@
-# *FLYSTACK.
+# Custom Taskbar. FlyStack.
 
 <img width="1000" height="481" alt="Анимация" src="https://github.com/user-attachments/assets/d82e0e50-4c4e-439d-8bd9-cf143105a9fd" />
 
