@@ -37,7 +37,7 @@
 
 ---
 
-> [!IMPORTANT]
+> [!WARNING]
 >
 > ## Важно о урезанных сборках Windows по типу Atlas, Revi и тому подобных.
 >
@@ -50,6 +50,18 @@
 > Я в целом не гарантирую стабильную работу многих функций на них.
 
 ---
+
+> [!IMPORTANT]
+> ## Лечение пропавшей панели задач в Windows 10:
+>
+> 
+> 1. Откройте диспетчер задач, найдите процесс FyStackTaskbar.exe, остановите его
+> 2. Хоткеем Win + R откройте cmd, введите команду: "reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve"
+>
+> ## Лечение пропавшей панели задач в Windows 11:
+> 1. Откройте диспетчер задач, найдите процесс FyStackTaskbar.exe, остановите его
+> 2. Хоткеем Win + R откройте cmd, введите команду: "reg delete "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StuckRects3" /f & taskkill /f /im explorer.exe & start explorer.exe"
+
 
 
 
