@@ -25,7 +25,8 @@
 > [!IMPORTANT]
 > Кастомная панель задач
 >
-> <img width="459" height="97" alt="image" src="https://github.com/user-attachments/assets/c68c4643-fc71-4942-b56f-9209a4e74072" />
+> <img width="543" height="164" alt="image" src="https://github.com/user-attachments/assets/bef48441-6cff-459a-b385-726091d5e0f3" />
+
 
 > [!IMPORTANT]
 > Кастомный трей
