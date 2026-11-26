@@ -8,6 +8,14 @@
 
 **Легковесный и быстрый кастомизатор панели задач для Windows, написанный на чистом C++ и Win32 API.**
 
+![C++](https://shields.io)
+![Platform](https://shields.io)
+![License](https://shields.io)
+
+<br>
+
+<img width="1000" height="481" alt="Демонстрация работы FlyStack" src="https://github.com" />
+
 </div>
 
 ---
@@ -26,12 +34,12 @@
 ### Кастомный календарь и быстрые действия
 Обновленное всплывающее окно календаря с быстрым переходом к параметрам системы и сети:
 
-<img width="1030" height="544" alt="Кастомный календарь FlyStack" src="https://github.com/user-attachments/assets/76d954c1-2699-45a2-81c7-fa67cd699b39" />
+<img width="1030" height="544" alt="Кастомный календарь FlyStack" src="https://github.com" />
 
 ### Плавающая панель задач и системный трей
 Компактная капсула с индикаторами активных окон, встроенным поиском и переработанным треем:
 
-<img width="543" height="164" alt="Кастомная панель задач FlyStack" src="https://github.com/user-attachments/assets/bef48441-6cff-459a-b385-726091d5e0f3" />
+<img width="543" height="164" alt="Кастомная панель задач FlyStack" src="https://github.com" />
 
 ---
 
@@ -60,6 +68,7 @@
 
 </details>
 
+<details>
 <summary><b>🛠 Как вернуть стандартную панель задач, если она пропала (Инструкция)</b></summary>
 <br>
 
