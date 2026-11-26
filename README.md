@@ -20,7 +20,8 @@
 > [!IMPORTANT]
 > Кастомный календарь
 >
-> <img width="459" height="270" alt="image" src="https://github.com/user-attachments/assets/4d1b0c95-0b24-48ff-bd4a-5c9f4bc43ec9" />
+> <img width="1030" height="544" alt="image" src="https://github.com/user-attachments/assets/76d954c1-2699-45a2-81c7-fa67cd699b39" />
+
 
 > [!IMPORTANT]
 > Кастомная панель задач
