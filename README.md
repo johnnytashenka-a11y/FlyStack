@@ -8,10 +8,6 @@
 
 **Легковесный и быстрый кастомизатор панели задач для Windows, написанный на чистом C++ и Win32 API.**
 
-<br>
-
-<img width="1000" height="481" alt="Демонстрация работы FlyStack" src="https://github.com/user-attachments/assets/d82e0e50-4c4e-439d-8bd9-cf143105a9fd" />
-
 </div>
 
 ---
