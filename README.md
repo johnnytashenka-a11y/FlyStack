@@ -10,8 +10,6 @@
 
 <br>
 
-<img width="1000" height="481" alt="Демонстрация работы FlyStack" src="https://github.com" />
-
 </div>
 
 ---
