@@ -5,6 +5,8 @@
 *.exp
 main.exe
 source/main.exe
+/FlyStackTaskbar.exe
+/WebView2Loader.dll
 
 # Runtime caches
 FlyStackTaskbar.exe.WebView2/
