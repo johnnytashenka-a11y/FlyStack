@@ -8,6 +8,8 @@
 
 **Легковесный и быстрый кастомизатор панели задач для Windows 10/11 x64, написанный на чистом C++ и Win32 API.**
 
+<img width="1031" height="537" alt="Preview" src="https://github.com/user-attachments/assets/49a4d8b6-4cbd-4140-bba7-aa72dbea134c" />
+
 </div>
 
 ---
