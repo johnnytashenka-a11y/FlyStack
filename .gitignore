@@ -1,0 +1,20 @@
+# Build outputs
+*.obj
+*.pdb
+*.ilk
+*.exp
+main.exe
+source/main.exe
+
+# Runtime caches
+FlyStackTaskbar.exe.WebView2/
+*.log
+
+# IDE / OS
+.vs/
+.idea/
+Thumbs.db
+Desktop.ini
+
+# Local archives and temporary snapshots
+*.zip
