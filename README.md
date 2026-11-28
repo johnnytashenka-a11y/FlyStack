@@ -93,8 +93,8 @@ reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\
 
 ### Тестирование работы программы
 
-- [x] AtlasOS 10/11
-- [x] ReviOS 10/11
+- [x] **AtlasOS 10/11** ![Нестабильно](https://shields.io)
+- [x] **ReviOS 10/11** ![Нестабильно](https://shields.io)
 - [ ] Windows 10 Pro 22H2
 - [ ] Windows 11 Pro 26H2
 - [ ] Windows 10 Home 22H2
